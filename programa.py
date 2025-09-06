@@ -11,3 +11,5 @@ numero_dos = 5
 suma = numero_uno + numero_dos
 print('suma =', suma)
 
+resta = numero_uno - numero_dos
+print ('resta =', resta)
