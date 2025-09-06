@@ -13,3 +13,6 @@ print('suma =', suma)
 
 resta = numero_uno - numero_dos
 print ('resta =', resta)
+
+multiplicacion = numero_uno * numero_dos
+print('multiplicacion=', multiplicacion)
